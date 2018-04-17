@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: sazzad24x7
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -10,7 +10,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-3
 #style: styles-4
 #style: styles-5
-#style: styles-6
+style: styles-6
 
 
 #Profile information
